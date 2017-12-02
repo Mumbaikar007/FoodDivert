@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="register_logo_backgroundcolor">#86a0d7</color>
+    <color name="dark_grey">#4e535e</color>
+    <color name="light_green">#88f493</color>
+    <color name="medium_purple">#845cc9</color>
+    <color name="reddish_pink">#f11553</color>
+    <color name="white">#ffffff</color>
+    <color name="green_light_shade">#f7a2e25e</color>
+    <color name="Accent">#FFC107</color>
+    <color name="trans">#00000000</color>
+
+    <color name="colorPrimary">#CDDC39</color>
+    <color name="colorPrimaryDark">#AFB42B</color>
+    <color name="primary_light">#F0F4C3</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#ffffff</color>
+    <color name="divider">#BDBDBD</color>
+
+
+
+
+
+
+
+</resources>

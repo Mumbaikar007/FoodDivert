@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_donor_or__receiver"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:background="@drawable/re"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.abhishek.fooddivert.Donor_or_Receiver">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="238dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:layout_gravity="center"
+            android:text="WELCOME"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:text=""
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="33dp"
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:id="@+id/textView_donor_or_receiver" />
+
+        <Button
+            android:text="Check Donation Status"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:background="@drawable/rounded"
+
+            android:textColor="@color/black"
+            android:id="@+id/button_Donation_Status" />
+
+
+        <TextView
+            android:text="SELECT YOUR ROLE"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:id="@+id/textView3_donor_or_receiver" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:layout_weight="0.36">
+
+            <Button
+                android:text="DONOR"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:textColor="@color/black"
+                android:background="@drawable/rounded"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginRight="5dp"
+                android:id="@+id/button2_donor_or_receiver"
+                android:onClick="donor"
+                android:layout_weight="1"
+                android:elevation="24dp" />
+
+            <Button
+                android:text="RECEIVER"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:textColor="@color/black"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/rounded"
+                android:layout_marginLeft="5dp"
+                android:layout_gravity="center"
+                android:id="@+id/button3_donor_or_receiver"
+                android:onClick="receiver"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
