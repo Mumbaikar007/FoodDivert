@@ -10,7 +10,7 @@
     android:orientation="vertical"
     android:background="@drawable/re"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.abhishek.fooddivert.Donor_or_Receiver">
+    tools:context="com.example.opimus.fooddivert.Donor_or_Receiver">
 
     <LinearLayout
         android:orientation="vertical"

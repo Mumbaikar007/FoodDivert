@@ -15,7 +15,7 @@
         android:layout_weight="1"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        tools:context="com.example.abhishek.fooddivert.MapsActivity" />
+        tools:context="com.example.opimus.fooddivert.MapsActivity" />
 
     <Button
 

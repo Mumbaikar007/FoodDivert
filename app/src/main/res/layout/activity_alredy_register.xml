@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@drawable/re"
 
-    tools:context="com.example.abhishek.fooddivert.Register_page">
+    tools:context="com.example.opimus.fooddivert.Register_page">
 
 
     <LinearLayout

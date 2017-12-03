@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@drawable/re"
-    tools:context="com.example.abhishek.fooddivert.NGO_contacts">
+    tools:context="com.example.opimus.fooddivert.NGO_contacts">
 
     <Button
         android:layout_width="match_parent"
