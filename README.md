@@ -1,19 +1,21 @@
 # Food Divert
 
-This app bridges the gap between donors (organizations with abundant food, especially caters) and NGOs like you who distribute food among the neediest. This app has features such as
+(still under construction :sweat_smile: )
 
-    Location tracer - to trace donor’s location
+This app bridges the gap between donors (organizations with abundant food, especially caters) and NGOs like you who distribute food among the neediest. This app has features such as ...
 
-    Food list – where donors put up ads for their abundant food items
+    * Location tracer - to trace donor’s location
 
-    Calling or SMS – to connect the donor and NGO
+    * Food list – where donors put up ads for their abundant food items
 
-    User-friendly Interface – makes it easy to use for any layman
+    * Calling or SMS – to connect the donor and NGO
 
-    Google Login – so users don’t need to make a separate account
+    * User-friendly Interface – makes it easy to use for any layman
 
-    Firebase Database – a powerful database from Google to store a lot of requests for adds
+    * Google Login – so users don’t need to make a separate account
 
-    Easy search – filter your results according to a location of your choice
+    * Firebase Database – a powerful database from Google to store a lot of requests for adds
+
+    * Easy search – filter your results according to a location of your choice
 
 And many more …
