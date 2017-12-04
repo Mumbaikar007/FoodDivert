@@ -1,7 +1,7 @@
-package com.example.opimus.fooddivert;
+package com.example.abhishek.fooddivert;
 
 /**
- * Created by opimus on 27-02-2017.
+ * Created by ABHISHEK on 27-02-2017.
  */
 
 public class Receiver_info_retrival_storage {

@@ -1,4 +1,4 @@
-package com.example.opimus.fooddivert;
+package com.example.abhishek.fooddivert;
 
 import android.content.Intent;
 import android.content.pm.PackageManager;

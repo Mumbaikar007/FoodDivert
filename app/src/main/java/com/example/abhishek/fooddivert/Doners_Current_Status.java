@@ -1,4 +1,4 @@
-package com.example.opimus.fooddivert;
+package com.example.abhishek.fooddivert;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;

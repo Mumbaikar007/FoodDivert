@@ -1,4 +1,4 @@
-package com.example.optimus.fooddivert;
+package com.example.abhishek.fooddivert;
 
 import org.junit.Test;
 

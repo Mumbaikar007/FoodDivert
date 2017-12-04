@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
 
-    tools:context="com.example.opimus.fooddivert.About">
+    tools:context="com.example.abhishek.fooddivert.About">
 
     <ImageView
         android:layout_width="200dp"

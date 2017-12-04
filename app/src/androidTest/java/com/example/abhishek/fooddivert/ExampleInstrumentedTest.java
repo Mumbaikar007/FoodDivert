@@ -1,4 +1,4 @@
-package com.example.optimus.fooddivert;
+package com.example.abhishek.fooddivert;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.opimus.fooddivert", appContext.getPackageName());
+        assertEquals("com.example.abhishek.fooddivert", appContext.getPackageName());
     }
 }

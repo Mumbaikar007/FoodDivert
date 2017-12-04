@@ -10,7 +10,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:orientation="vertical"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.opimus.fooddivert.Receiver_retrive_information">
+    tools:context="com.example.abhishek.fooddivert.Receiver_retrive_information">
 
     <Spinner
         android:paddingBottom="3dp"

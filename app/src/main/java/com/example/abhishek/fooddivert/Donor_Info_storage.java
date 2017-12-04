@@ -1,10 +1,10 @@
-package com.example.opimus.fooddivert;
+package com.example.abhishek.fooddivert;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * Created by opimus on 26-02-2017.
+ * Created by ABHISHEK on 26-02-2017.
  */
 
 public class Donor_Info_storage implements Parcelable {
