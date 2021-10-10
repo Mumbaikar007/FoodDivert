@@ -1,7 +1,5 @@
 # Food Divert
 
-(still under construction :sweat_smile: )
-
 This app bridges the gap between donors (organizations with abundant food, especially caters) and NGOs like you who distribute food among the neediest. This app has features such as ...
 
     * Location tracer - to trace donor’s location
